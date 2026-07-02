@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 # ================= 配置区 =================
 SOURCE_URLS = [
     "https://boyu.ccwu.cc/sub1",
-    "https://theresa23-docker.hf.space/sub?U8wQrA0Y=txt",
+    "https://theresa23-docker.hf.space/sub?iifsptbn=txt",
     "https://iptv-spider-production.up.railway.app/sub?rGzNKN5g=txt"
     
 ]
